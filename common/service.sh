@@ -1,4 +1,3 @@
-#!/system/bin/sh
-
-# This script will be executed in late_start service mode
-# More info in the main Magisk thread
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
