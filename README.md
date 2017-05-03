@@ -1,4 +1,5 @@
-# OBSOLETE REPOSITORY
+# This is a Private Module
 
-The module is now officially in the Magisk modules repository. As such, the repo has been relocated.
-New repository is [here](https://github.com/Magisk-Modules-Repo/Magisk-EmojiOne-systemless).
+This module is a forked version of Magisk-EmojiOne-systemless with amendments to make it compatible with Samsung TouchWiz 6.0.
+TouchWiz uses a different font name that needs to be replaced.
+The module is not within the Magisk Module Repository.
