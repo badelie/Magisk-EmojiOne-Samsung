@@ -5,4 +5,3 @@ versionCode=1
 author=badelie
 description=This module replaces Samsung TouchWiz emoji font with Emoji One.
 template=3
-cacheModule=false
